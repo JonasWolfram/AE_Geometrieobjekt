@@ -1,0 +1,15 @@
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/AE_Geometrieobjekt.deps.json
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/AE_Geometrieobjekt.runtimeconfig.json
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/AE_Geometrieobjekt.runtimeconfig.dev.json
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/AE_Geometrieobjekt.dll
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/ref/AE_Geometrieobjekt.dll
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/bin/Debug/net5.0/AE_Geometrieobjekt.pdb
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.csprojAssemblyReference.cache
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.AssemblyInfoInputs.cache
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.AssemblyInfo.cs
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.csproj.CoreCompileInputs.cache
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.dll
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/ref/AE_Geometrieobjekt.dll
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.pdb
+/Users/jonaswolfram/Sites/Code/CSharp/BFW_AE/AE_Geometrieobjekt/obj/Debug/net5.0/AE_Geometrieobjekt.genruntimeconfig.cache
